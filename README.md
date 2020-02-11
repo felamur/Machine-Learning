@@ -5,9 +5,9 @@ Project, FinalCode.py and FinalCode(1).html have same file content. HTML version
 
 To open HTML file, just download it and open it with a browser.
 
-WomboCombo2 is dataset
+WomboCombo2 is dataset.
 
-Report is report
+Report.docx is report.
 
 Report info:
 
